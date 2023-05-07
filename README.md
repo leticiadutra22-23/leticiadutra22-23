@@ -26,7 +26,7 @@
 
 :cherry_blossom:  I’m currently learning **Swift, UI/UX Design, Web Design, Python, JavaScript**
 
-👨‍💻 All of my projects are available at [https://sites.google.com/view/aika-aesthetics/página-inicial?authuser=0](https://sites.google.com/view/aika-aesthetics/página-inicial?authuser=0)
+
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
