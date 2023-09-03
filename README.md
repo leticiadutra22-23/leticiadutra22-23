@@ -48,4 +48,8 @@
 <a href="https://github.com/leticiadutra22-23">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadutra22-23&layout=compact&langs_count=7&theme=omni"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiadutra22-23&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
+<br>
+
+![Snake animation](https://github.com/seu-usuário-aqui/leticiadutra22-23/blob/output/github-contribution-grid-snake.svg)
 </div>
