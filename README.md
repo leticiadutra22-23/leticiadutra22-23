@@ -23,7 +23,7 @@
 
 </div>
 <br>
-<img align="right" alt="Coding" width="200" src="https://github.com/leticiadutra22-23/leticiadutra22-23/assets/101335613/04ff1f23-3f65-44d1-923c-2165392ed01c">
+<img align="right" alt="Coding" height="234" src="https://github.com/leticiadutra22-23/leticiadutra22-23/assets/101335613/d0cf89a1-3dfd-49ce-bfbc-f86539d0f44a">
 
 <div align="right">
 <h3 align="right">𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒘𝒊𝒕𝒉 𝒎𝒆: </h3>
